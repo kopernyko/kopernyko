@@ -1,12 +1,12 @@
 <div align="center">
 <pre>
     Hello, I'm Nico Gómez
-</pre>
-<p align='center'>
+<p>
 <a href="mailto:nicolasgomezbaselga@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nicolas-gomez-baselga-932673349/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 </p>
-<br><br>
+</pre>
+<br>
 <pre>
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣤⣤⣶⡶⠶⡴⣦⣶⡶⠶⠞⢻⣿⠇ 
         ⠀⠀⠀⠀⠀⠀⣠⣶⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣖⡟⠁ 
@@ -17,7 +17,7 @@
         ⠀⣰⡿⠇⠀⠀⠸⣟⠷⡋⣁⢀⣀⢄⢤⢄⣄⣤⣤⣶⣿⠃⠀⠀⠀⠀ 
         ⣰⣿⣿⣦⣷⠿⠶⠓⠛⠛⠛⠛⠛⠛⠋⠉⠉⠁⠙⠉⠀⠀⠀
 </pre>
-<br><br>
+<br>
 <pre>
     💼 BSc Computer Science @ VU Amsterdam
     💼 MSc Web Development, Applied AI and DevOps @ EDEM
